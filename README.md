@@ -1,2 +1,10 @@
 # Smart-city-farming-using-iot-and-ml
-Built a Smart City Farming System using IoT, ML, and ESP32 with sensors and Blynk for automated irrigation and real-time soil monitoring. ML models predict NPK and pH, enabling smart crop planning. Highlights skills in embedded C, IoT hardware, and automation
+This project focuses on building a Smart City Farming System that combines IoT, Machine Learning (ML), and embedded technologies to modernize urban agriculture. The system is designed to automate irrigation, monitor environmental parameters in real time, and predict soil health for efficient farming practices within city spaces.
+
+The hardware core of the system is the ESP32 microcontroller, which integrates multiple sensors for soil moisture, pH, and nutrient levels (NPK). These sensors provide continuous feedback on soil and environmental conditions. Data is transmitted wirelessly to the Blynk IoT platform, enabling farmers or users to remotely monitor parameters through a mobile app. Automated irrigation is achieved by connecting water pumps to the ESP32, which are triggered based on sensor data, ensuring optimized water usage and preventing both over- and under-irrigation.
+
+On the software side, Machine Learning models are integrated to analyze sensor data and predict soil nutrient levels (NPK and pH). These predictions support decision-making regarding fertilizer use and crop planning, moving farming practices from reactive to predictive. By combining real-time IoT monitoring with ML-driven insights, the system achieves higher accuracy in resource management and improves crop yields.
+
+This project also highlights skills in embedded C programming, IoT hardware integration, and control systems. The design concepts are not limited to agriculture; they are directly relatable to applications such as electric vehicle (EV) battery monitoring, smart automation, and predictive maintenance—all of which require continuous sensing, data analysis, and automated control.
+
+By leveraging IoT for connectivity and ML for intelligence, the Smart City Farming System demonstrates a scalable, eco-friendly, and technologically advanced approach to urban farming. It reduces resource wastage, improves soil management, and supports sustainable food production for smart cities of the future.
